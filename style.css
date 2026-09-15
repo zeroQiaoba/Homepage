@@ -194,6 +194,12 @@ ul {
 	list-style-type: square;
 }
 
+span.pub-tag {
+	color: #8a8a8a;
+	font-size: 88%;
+	white-space: nowrap;
+}
+
 p + ul, p + ol {
 	margin-top: -0.5em;
 }
